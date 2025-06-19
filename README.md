@@ -1,0 +1,2 @@
+# Simulated-Active-Directory-Domain-Controller-Infrastructure-using-VirtualBox-Offline-
+This project is a local Active Directory lab simulated in VirtualBox using Windows Server and Windows 10 virtual machines. It demonstrates AD DS setup, DNS, OU and user management, shared folder configuration, GPO enforcement, RSAT usage, and basic system monitoring all in an offline environment suitable for IT Support and Cybersecurity practice.
